@@ -1,5 +1,6 @@
 {
   "name": "rdnsan/php-composer-hello",
+  "version": "1.1.0",
   "description": "Library Composer Hello",
   "type": "library",
   "license": "MIT",
