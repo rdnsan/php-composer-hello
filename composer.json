@@ -1,0 +1,20 @@
+{
+  "name": "rdnsan/php-composer-hello",
+  "description": "Library Composer Hello",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Rdnsan\\PhpComposerHello\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Ridwan Ikhsan",
+      "email": "ridwan@oneyel.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  }
+}
